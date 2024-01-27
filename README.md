@@ -1,21 +1,21 @@
-Walmart Sales Dashboard: 
+**Walmart Sales Dashboard**__
 
-Tools Used: 
+**Tools Used: **
 Microsoft PowerBI
 
-Data Collected: Jobaaj Learning Dummy Data
+**Data Collected:** Jobaaj Learning Dummy Data
 
 Here is a summary and data storytelling approach for this sales dashboard:
 
-Overview:
+**Overview:**
 - The dashboard provides sales and profit data for a retailer across 11 US states. It covers the years 2011-2015.
 
-Key Stats: 
+**Key Stats: **
 - Total sales were $725,460. Top states were California ($534K) and Washington ($457K).
 - Total profit was $108,420. California also led in profit at $76,380.
 - Top selling product categories were Chairs (14%) and Phones (13.6%).
 
-Data Storytelling:
+**Data Storytelling:**
 
 1. Set the context: A retailer looking to optimize sales and profit across their western US locations. 
 
