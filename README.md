@@ -1,6 +1,10 @@
 Walmart Sales Dashboard: 
-Tools Used: Microsoft PowerBI
+
+Tools Used: 
+Microsoft PowerBI
+
 Data Collected: Jobaaj Learning Dummy Data
+
 Here is a summary and data storytelling approach for this sales dashboard:
 
 Overview:
