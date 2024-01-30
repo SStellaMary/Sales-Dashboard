@@ -14,7 +14,7 @@ Here is a summary and data storytelling approach for this sales dashboard:
 
 Key Stats:
 
-- Total sales were $725,460. Top states were California ($534K) and Washington ($457K).
+- Total sales were 725,460. Top states were California (534K) and Washington (457K).
 - Total profit was $108,420. California also led in profit at $76,380.
 - Top selling product categories were Chairs (14%) and Phones (13.6%).
 
