@@ -5,6 +5,7 @@ Tools Used:
 Microsoft PowerBI, Power Query
 
 **Data Collected:**
+
 Jobaaj Learning Dataset
 
 Here is a summary and data storytelling approach for this sales dashboard:
