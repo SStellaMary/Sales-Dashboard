@@ -1,8 +1,8 @@
-**Walmart Sales Dashboard**__
+**Walmart Sales Dashboard**
 
 Tools Used:
 
-Microsoft PowerBI
+Microsoft PowerBI, Power Query
 
 **Data Collected:**
 Jobaaj Learning Dummy Data
