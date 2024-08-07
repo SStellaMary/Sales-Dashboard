@@ -1,11 +1,9 @@
-**Walmart Sales Dashboard**
+**Walmart Sales Dashboard** - **Microsoft Power BI**
 
-Tools Used:
+**Tools Used:**
+Microsoft Excel, Microsoft PowerBI, Power Query Editor
 
-Microsoft PowerBI, Power Query
-
-**Data Collected:**
-
+**Data Source:**
 Jobaaj Learning Dataset
 
 Here is a summary and data storytelling approach for this sales dashboard:
@@ -13,7 +11,7 @@ Here is a summary and data storytelling approach for this sales dashboard:
 **Overview:**
 - The dashboard provides sales and profit data for a retailer across 11 US states. It covers the years 2011-2015.
 
-Key Stats:
+**Key Stats:**
 
 - Total sales were 725,460. Top states were California (534K) and Washington (457K).
 - Total profit was $108,420. California also led in profit at $76,380.
@@ -59,5 +57,4 @@ This dashboard provides a multi-faceted view of the business, highlighting:
 - The disparity between top-selling and most profitable categories
 - The wide range of products offered
 - The potential for growth in smaller markets
-
 It allows for analysis of performance across different dimensions (geographical, product category, time) and provides key metrics for assessing overall business health. This type of visualization would be valuable for strategic decision-making, identifying areas for growth or improvement, and understanding the company's market positioning across different states and product categories.
